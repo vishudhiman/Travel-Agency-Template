@@ -3,4 +3,4 @@
   You can check it using the given link..⬇
 *
 
-[ShivanshiTaxiService](https://www.shivanshitaxiservice.herokuapp.com)
+[ShivanshiTaxiService](http://shivanshitaxiservice.herokuapp.com)
